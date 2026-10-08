@@ -46,3 +46,10 @@ SQLite / SQL Analysis
 Power BI Dashboard
       ↓
 Performance Insights
+## 💡 Key Insights
+
+- **Renoy R** was the leading run scorer with **209 runs**, making him the strongest batting performer by total runs.
+- **Amal Psc** and **Gokul Sankar** were the joint-leading wicket takers with **4 wickets each**.
+- **Night Hawks** had the strongest overall bowling contribution, supported by multiple players contributing wickets.
+- The analysis identified players contributing across multiple disciplines, allowing performance to be evaluated beyond batting or bowling alone.
+- The weighted performance model provided a standardized way to compare players across batting, bowling, and fielding rather than relying on a single statistic.
