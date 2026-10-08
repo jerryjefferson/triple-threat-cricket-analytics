@@ -46,7 +46,6 @@ SQLite / SQL Analysis
 Power BI Dashboard
       ↓
 Performance Insights
-## 💡 Key Insights
 
 - **Renoy R** was the leading run scorer with **209 runs**, making him the strongest batting performer by total runs.
 - **Amal Psc** and **Gokul Sankar** were the joint-leading wicket takers with **4 wickets each**.
